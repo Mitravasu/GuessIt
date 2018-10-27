@@ -1,0 +1,8 @@
+apples
+avocados
+bananas
+blueberries
+cantaloupe
+clementine
+cherries
+dragon fruit
