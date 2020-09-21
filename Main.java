@@ -43,7 +43,7 @@ public class Main {
     }
 
     public static String generateRandomWord(String topic) throws Exception {
-        String fileName = "C:\\Users\\Mitravasu\\Dropbox\\ICS 4U1\\GuessIt\\src\\com\\mitravasu\\Choice" + topic + ".txt";
+        String fileName = ".\\Choice" + topic + ".txt";
 
         Scanner fileScanner = new Scanner(new File(fileName));
         int randomNumber = (int) (Math.random() * 8) + 1;
